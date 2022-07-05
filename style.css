@@ -14,24 +14,37 @@ body {
 }
 
 h1 {
-    font-size: 45px;
+    font-size: 50px;
     margin: 0%;
     padding: 0%;
     color: #fff;
 }
 
+span {
+    color: rgb(255, 0, 0);
+}
+
 p {
     font-size: 20px;
-    color: rgb(247, 239, 9);
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    background-color: rgba(0, 0, 0, 0.491);
 }
 
 #donate-button {
     font-family: 'Gulzar', serif;
-    font-size: 30px;
+    font-size: 20px;
     font-weight: 700;
     text-decoration: none;
     color: #000;
     background-image: linear-gradient(to top, rgb(71, 125, 137), rgb(113, 193, 215));
-    border-radius: 50px;
-    padding: 10px 60px;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+
+section .all-text {
+    text-align: center;
+    padding-top: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
