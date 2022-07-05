@@ -13,8 +13,8 @@ body {
 
 }
 
-h1 {
-    font-size: 50px;
+.first-work h1 {
+    font-size: 65px;
     margin: 0%;
     padding: 0%;
     color: #fff;
@@ -24,9 +24,9 @@ span {
     color: rgb(255, 0, 0);
 }
 
-p {
+.first-work p {
     font-size: 20px;
-    color: rgb(255, 255, 255);
+    color: #fff;
     font-weight: 600;
     background-color: rgba(0, 0, 0, 0.491);
 }
@@ -47,4 +47,33 @@ section .all-text {
     padding-top: 100px;
     padding-left: 20px;
     padding-right: 20px;
+}
+
+
+
+
+
+
+
+
+.upper {
+    color: aquamarine;
+    font-size: 30px;
+    background-color: #000;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 100%;
+    margin-bottom: 0px;
+}
+
+.lower {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    background-color: #000;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 100%;
+    margin-top: 0px;
 }
