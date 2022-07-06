@@ -134,13 +134,51 @@ label {
     text-decoration: none;
 }
 
+
+.input-back-deco {
+    width: 450px;
+    background: rgb(253, 237, 191);
+    padding: 30px;
+    box-shadow: 0px 0px 0px rgba(163, 162, 162, 0.493);
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.input-deco {
+    width: 50%;
+    height: 50%;
+}
+
+.contact h1 {
+    font-size: 40px;
+    color: coral;
+}
+
+.contact p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+.contact {
+    text-align: center;
+}
+
+.send {
+    text-decoration: none;
+    font-size: 14px;
+    background-color: rgb(167, 125, 74);
+    color: rgb(240, 232, 221);
+    padding: 5px 10px;
+}
+
 .upper {
     color: aquamarine;
+    font-family: 'Lobster', cursive;
     font-size: 30px;
     background-color: #000;
     text-align: center;
     padding-top: 20px;
-    padding-bottom: 20px;
+    padding-bottom: auto;
     width: 100%;
     margin-bottom: 0px;
 }
@@ -150,7 +188,7 @@ label {
     font-size: 20px;
     background-color: #000;
     text-align: center;
-    padding-top: 20px;
+    padding-top: 0px;
     padding-bottom: 20px;
     width: 100%;
     margin-top: 0px;
