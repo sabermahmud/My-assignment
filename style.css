@@ -138,6 +138,22 @@ label {
     text-decoration: none;
 }
 
+.video {
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 2%;
+}
+
+.video h1 {
+    font-size: 25px;
+    color: lightslategray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.video video {
+    box-shadow: 0px 0px 0.5px gainsboro;
+}
+
 .third {
     text-align: center;
 }
